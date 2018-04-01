@@ -1,0 +1,13 @@
+{
+  "name": "simple-todos",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "messaging-api-telegram": "^0.7.0-beta.2",
+    "meteor-node-stubs": "^0.2.11",
+    "telegram-bot-api": "^1.2.0"
+  }
+}
